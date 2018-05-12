@@ -1,0 +1,35 @@
+_repo: With-The-Eyes-Shut1898_22713
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bellamy, Edward
+    birthdate: 1850
+    deathdate: 1898
+    gutenberg_agent_id: '327'
+    url: http://www.gutenberg.org/2009/agents/327
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bellamy
+description: Though originally published in the late nineteenth century, this remarkably
+  prescient tale from famed author Edward Bellamy will resonate with today's readers.
+  A man taking a long journey by train finds himself overcome by motion sickness and
+  thus unable to pass the time by reading. Fortuitously, a salesman hawking futuristic
+  listening gadgets comes along, allowing the nauseous passenger to listen to a book.
+  Though he is initially impressed with the ingenuity of the technology ...
+gutenberg_issued: '2007-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Short stories'
+title: 'With The Eyes Shut
+
+  1898'
+url: http://www.gutenberg.org/ebooks/22713
